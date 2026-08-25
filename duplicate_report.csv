@@ -1,0 +1,11 @@
+Metric,Value
+Original records,9977
+Original columns,13
+Missing values,0
+Exact duplicate rows to remove,0
+Rows belonging to exact-duplicate groups,0
+Exact duplicate groups,0
+Potential key-column duplicate groups,55
+Records in potential key-column duplicate groups,114
+Cleaned records,9977
+Records removed,0
